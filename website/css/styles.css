@@ -1,0 +1,118 @@
+body{
+  background-color: black;
+}
+.navbar{
+ margin-top: 0px;
+ height:100px;
+ width: 100%;
+ background-color:#0F2E4D;
+ position: fixed;
+}
+
+#menu{
+ padding-left: 800px;
+ text-decoration: none;
+ color:white;
+ margin-top:20px;
+ text-decoration:none;
+ display: block;
+ 
+  
+}
+#menu li{
+  display:inline-block;
+  height: 35px;
+  width:100px;
+  padding: 10px 10px 15px 15px;
+  margin-top:0px;
+  font-weight: bold;
+}
+#menu li a{
+  color:white !important;
+  text-decoration:none;
+}
+
+#menu li a : hover{
+    background-color: aliceblue;
+    
+}
+.caption{
+  margin-top:-20px;
+  background-image: url("http://www.heise.de/imgs/18/1/5/3/8/1/9/3/BAK_Sshot130-2aaa7d3f5bf7ecf5.jpeg");
+  background-color:#0F2E4D;
+  background-blend-mode: multiply;
+  height:600px;
+  width:100%;
+}
+.socials1st{
+    color:#F8F8FF;
+    text-align : center;
+    margin-top: 120px;
+    
+  }
+table{
+    margin-left: 10%;
+    align-content: center;
+    width: 80%;
+    height: auto;
+}
+.title{
+    color: white;
+}
+
+#about{
+   padding-top: 50px; 
+}
+  
+
+.portfolio{
+    
+  height:auto;
+  padding:0px 20px 0px 20px;
+  width:100%;
+}
+
+#contact{
+    margin-top: 100px;
+}
+
+#contact h3{
+    color: white;
+}
+.gist{
+    margin-left: 50px;
+    text-align: center;
+}
+
+#submit {
+     margin-left: 10%;
+     margin-top: 5px;
+}
+.label{
+    color :aquamarine;
+    margin-left: 10%;
+}
+.form{
+    width: 300px;
+    height: 30px;
+    margin-left: 10%;
+}
+.image{
+  width: 100%;
+}
+
+.footer-one{
+  background-color:#0F2E4D;
+  height:180px;
+  padding-top: 10px;
+}
+.footer-two{
+ margin-top: -10px;
+ padding-top: 10px;
+ background-color:grey; 
+ height:80px;
+}
+
+.center{
+  text-align: center;
+}
